@@ -1,0 +1,25 @@
+# Virtual environments
+venv/
+.venv/
+.venv312/
+
+# Training artifacts
+checkpoint-*/
+hf_fake_news_backup/
+legacy_models/
+
+# Datasets
+False.csv
+True.csv
+
+# Notebooks
+*.ipynb
+
+# Python
+__pycache__/
+*.pyc
+
+# Reports
+*.pdf
+*.html
+.vscode
