@@ -1,4 +1,6 @@
-# AI-Powered News Credibility Analysis Platform
+# News Credibility Analyzer
+
+A fake news detection system built using a fine-tuned RoBERTa model.
 
 An NLP-based web application that analyzes news articles and predicts whether content resembles patterns found in real or fake news datasets.
 
