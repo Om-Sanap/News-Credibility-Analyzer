@@ -64,3 +64,13 @@ This system identifies patterns associated with misinformation based on its trai
 * Multilingual Support
 * Explainable AI (SHAP/LIME)
 * Social Media Analysis
+
+# News Credibility Analyzer
+
+🚀 Live Demo: https://news-credibility-analyzer101.streamlit.app
+
+🤗 Hugging Face Model:
+https://huggingface.co/bunpine/news-credibility-analyzer
+
+📂 GitHub Repository:
+https://github.com/Om-Sanap/News-Credibility-Analyzer
